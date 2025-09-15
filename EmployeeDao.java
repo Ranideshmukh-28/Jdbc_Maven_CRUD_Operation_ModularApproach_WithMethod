@@ -89,9 +89,11 @@ public class EmployeeDao{
 		else {
 			System.out.println("Please Try Again..");
 		}
+		c.close();
 	}
 
 }
+
 
 
 
